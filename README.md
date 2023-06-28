@@ -1,6 +1,6 @@
 - 👋 Oi, me chamo Paloma (@palomafersants), sou formada em Gestão da Informação.
 - 👀 Meus interesses são Data Science, Data Visualization, Data Storyteller e UX/UI.
-- 🌱 Atualmente estou aprendendo Python.
+- 🌱 Atualmente estou cursando uma Pós-graduação em Data Science pela Descomplica.
 - 📫 Contato: paloma.fersants@gmail.com
 
 
